@@ -1,3 +1,5 @@
+//Equipo 4
+//Integrantes: Alejandro Velazquez, Eliel Ontiveros, Andrea Rivas , Teresa Rivas y ivan hernandez
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
