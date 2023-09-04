@@ -13,7 +13,7 @@ int main()
     printf("\n2)papel");
     printf("\n3)tijera\n");
     scanf("%d",&op);
-    comp=rand()%3;
+    comp=rand()%3 ;
     printf("comp dice: %d\n",comp);
     if((op == 1 && comp == 3) || (op == 2 && comp == 1))
         {
